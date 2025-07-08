@@ -44,7 +44,7 @@ To observe the **transient response** of an RLC series circuit when connected to
 - The circuit reaches **steady-state** with capacitor fully charged and inductor acting as a short.
 
 ---
-
+![The circuit can be viewed with the link : https://tinyurl.com/ym5atrul ]
 ## 📷 **Circuit Diagram**
 
 ![Circuit Diagram](circuit.png)
